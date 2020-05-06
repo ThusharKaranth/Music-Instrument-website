@@ -1,2 +1,2 @@
 # Music Instrument website
- Website where u can sell and buy musical instruments
+ Website where you can sell and buy musical instruments
